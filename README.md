@@ -25,3 +25,5 @@ go run consumer.go
 ```
 
 ## Funcionamento
+
+https://github.com/jeanroths/prova2-m9/assets/99195775/abd59b6b-b7de-4808-b3da-7ad39e63c140
